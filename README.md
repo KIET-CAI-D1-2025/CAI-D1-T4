@@ -1,5 +1,7 @@
 🖼️ Image to Sketch Converter 🎨
+
 ✨ Introduction
+
 The Image to Sketch Converter is a web application that transforms ordinary photographs into artistic sketch renderings using computer vision techniques. Built with Flask and OpenCV, this project provides an intuitive interface for users to upload images and convert them into different sketch styles with just a few clicks. 🖌️🧠
 
 🎯 Purpose and Functionality
