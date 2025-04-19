@@ -10,6 +10,7 @@ In the digital age, transforming photographs into sketches has become a popular 
 This application bridges that gap by offering a simple, accessible solution for creating sketch art from photographs. 📷➡️✏️
 
 🖍️ Sketch Styles Offered:
+
 ✏️ Pencil Sketch: Realistic pencil drawing effect with appropriate shading and texture.
 
 🧾 Detailed Edges: Highlights key edges and contours for a sharp, defined look.
@@ -25,6 +26,7 @@ The project uses:
 
 💻 HTML/CSS/JavaScript: Frontend technologies for a responsive UI
 
+
 🔬 The image processing pipeline includes:
 
 Grayscale conversion 🖤
@@ -35,7 +37,9 @@ Edge detection ✂️
 
 Adaptive thresholding 🎚️
 
+
 👥 Target Audience
+
 This tool is perfect for:
 
 🧑‍🎨 Artists seeking inspiration or base sketches
